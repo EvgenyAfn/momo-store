@@ -1,5 +1,5 @@
 # Momo-Store (Пельменная №2)
-***URL:*** https://std-028-65-momo-store.ru/
+***URL:*** https://std-028-65-momo-store.ru/ $\color{brown}{\textsf{РЕСУРС НА ДАННЫЙ МОМЕНТ ОТКЛЮЧЕН}}$
 
 ![Momo-Store](images/app.png)
 
